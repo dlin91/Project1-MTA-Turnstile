@@ -10,5 +10,5 @@ this data to draw conclusions and present themt to the team.
 
 # Dataset/Features
 
-NYC MTA turnstile data is open on their website for anyone to use. It contains data for years of entries and exits at each station. The features that are included are: 
-/n C/A Unit: Control Area
+NYC MTA turnstile data is open on their website for anyone to use. It contains data for years of entries and exits at each station. The features that are included are:   
+C/A Unit: Control Area
